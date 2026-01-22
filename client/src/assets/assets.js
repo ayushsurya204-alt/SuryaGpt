@@ -26,6 +26,9 @@ import ai_image9 from "./ai_image9.jpg";
 import ai_image10 from "./ai_image10.jpg";
 import ai_image11 from "./ai_image11.jpg";
 import ai_image12 from "./ai_image12.jpg";
+import suryagpt_dark from "./suryagpt_dark.svg";
+import suryagpt_light from "./suryagpt_light.svg";
+
 
 export const assets = {
     logo,
@@ -42,7 +45,9 @@ export const assets = {
     logout_icon,
     logo_full_dark,
     diamond_icon,
-    gallery_icon
+    gallery_icon,
+    suryagpt_dark,
+    suryagpt_light
 };
 
 export const dummyUserData = {

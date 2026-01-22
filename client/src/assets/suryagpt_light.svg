@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <g transform="translate(40,30)">
+    <circle cx="70" cy="70" r="60" fill="#7c3aed"/>
+    <rect x="30" y="70" width="80" height="50" rx="10" fill="#6d28d9"/>
+    <circle cx="55" cy="80" r="6" fill="#ffffff"/>
+    <circle cx="85" cy="80" r="6" fill="#ffffff"/>
+  </g>
+  <text x="200" y="105" font-size="64" font-weight="700"
+        font-family="Poppins, Inter, Arial, sans-serif"
+        fill="#7c3aed">SuryaGpt</text>
+  <text x="200" y="145" font-size="22"
+        font-family="Poppins, Inter, Arial, sans-serif"
+        fill="#000000">Intelligent AI Assistant</text>
+</svg>
